@@ -1,6 +1,6 @@
 # E-commerce-FastAPI Backend Project
 
-A robust and scalable backend built with FastAPI showcases essential features for managing sellers, customers, products, and orders. This project demonstrates the use of JWT authentication, ORM for database interactions, data validation, and interactive API documentation.
+A robust and scalable backend built with FastAPI showcases essential features for managing sellers, customers, products, and orders. This project demonstrates the use of JWT authentication, and ORM for database interactions, data validation, and interactive API documentation.
 
 # 🚀 Features
 - 🔒 **Authentication & Authorization**
@@ -65,7 +65,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 - [ Swagger UI ](http://127.0.0.1:8000/docs)
 
 **Sample FASTAPI interactive documentation**
-![FASTAPI DOC](image.jpg)
+![FASTAPI DOC](sample_ui.png)
 
 # 🤝 Contributing
 Contributions are welcome! If you’d like to enhance the project or fix issues, feel free to fork the repository and submit a pull request.
